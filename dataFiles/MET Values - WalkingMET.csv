@@ -1,0 +1,10 @@
+activity,incline ,intensity,MET value
+walking,HILLY,HIGH,19
+walking,HILLY,MODERATE,17.4
+walking,HILLY,LOW,17
+walking,LOW,HIGH,14.43
+walking,LOW,MODERATE,13.44
+walking,LOW,LOW,10.72
+walking,NONE,HIGH,13.86
+walking,NONE,MODERATE,11.88
+walking,NONE,LOW,8.72

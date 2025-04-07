@@ -1,0 +1,10 @@
+activity,incline ,intensity,MET value
+bicycling ,HILLY,HIGH,16
+bicycling,HILLY,MODERATE,14
+bicycling ,HILLY,LOW,8.5
+bicycling ,LOW,HIGH,8.5
+bicycling ,LOW,MODERATE,7.5
+bicycling ,LOW,LOW,6.8
+bicycling,NONE,HIGH,10
+bicycling ,NONE,MODERATE,8
+bicycling ,NONE,LOW,3.5

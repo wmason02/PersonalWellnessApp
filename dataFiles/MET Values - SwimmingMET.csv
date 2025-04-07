@@ -1,0 +1,13 @@
+activity,swimstyle,intensity,MET value
+swimming,BREASTSTROKE,HIGH,10.3
+swimming,BREASTSTROKE,MODERATE ,10.3
+swimming,BREASTSTROKE,LOW,5.3
+swimming,FREESTYLE,HIGH,9.8
+swimming,FREESTYLE,MODERATE ,5.8
+swimming,FREESTYLE,LOW,5.8
+swimming,BACKSTROKE,HIGH,95
+swimming,BACKSTROKE,MODERATE ,9.5
+swimming,BACKSTROKE,LOW,4.8
+swimming,BUTTERFLY,HIGH,13.8
+swimming,BUTTERFLY,MODERATE ,13.8
+swimming,BUTTERFLY,LOW,13.8
